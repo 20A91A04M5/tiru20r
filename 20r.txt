@@ -1,1 +1,7 @@
-hii this is Tirumala using git hub.
+Hii this is Tirumala using git hub.
+git init
+git clone "copy the repostory link"
+git status --> to check the status
+git add "filename"
+git commit
+git push
